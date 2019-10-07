@@ -1,5 +1,7 @@
 ## Willow-Mackintosh-Map
-###### Rennie Mackintosh inspired map of Glasgow
+#### Rennie Mackintosh inspired map of Glasgow
+#### SLD & QML files are supplied
+#### Open Layers [example](http://www.popelnuh.com/willow.html#12/55.8619/-4.2603)
 
 ## Background
 
